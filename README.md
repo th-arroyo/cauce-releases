@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/th-arroyo/cauce-releases/releases/latest"><strong>Descargar para Windows</strong></a>
   ·
-  <a href="#novedades-de-la-versión-12">Novedades</a>
+  <a href="#novedades-de-la-versión-13">Novedades</a>
   ·
   <a href="#instalación">Cómo instalar</a>
   ·
@@ -30,7 +30,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/inicio-oscuro.png">
-    <img src="assets/inicio-claro.png" alt="Pantalla de inicio de Cauce con el restante del mes, el reparto del presupuesto y el plan de acción" width="900">
+    <img src="assets/inicio-claro.png" alt="Pantalla de inicio de Cauce con lo que te quedaría al cerrar el mes, los pagos vencidos, los próximos pagos y el presupuesto" width="900">
   </picture>
 </p>
 
@@ -64,9 +64,22 @@ Cauce convierte tus ingresos, gastos, deudas e inversiones en un presupuesto y u
 | **Reportes** | En qué se fue la plata por categoría, ingresos contra gastos mes a mes y cuánto te quedó. |
 | **Inversiones** | CEDEARs y acciones con cotizaciones actualizadas, precio promedio, resultado y tiempo de tenencia. |
 
+**A tu gusto:** tema claro u oscuro, o que siga a Windows.
+
 **En pareja o en familia:** compartí un espacio con permiso de lectura o de edición. Si los dos cargan cosas al mismo tiempo, Cauce las combina solo.
 
-## Novedades de la versión 1.2
+## Novedades de la versión 1.3
+
+**Cauce, renovado.** Un diseño nuevo, más limpio y más claro. Tus datos y tus cálculos siguen exactamente igual.
+
+- **Un Inicio que se entiende de un vistazo.** Arriba, cuánto te quedaría al cerrar el mes y la cuenta que lleva a ese número. Abajo, lo que necesita tu atención, los próximos pagos y tu presupuesto.
+- **Menú más simple.** Lo de todos los días a mano; Ingresos, Servicios, Vivienda y Reportes están en «Más».
+- **Claro u oscuro, a tu gusto.** En **Ajustes › Cuenta y apariencia** elegís el tema, o dejás que siga a Windows.
+- **Todo más prolijo.** Números más grandes, tarjetas más limpias, pestañas y ventanas nuevas en todas las pantallas.
+
+<details>
+<summary><b>Lo que llegó en la versión 1.2</b></summary>
+<br>
 
 - **Edición en pareja sin conflictos.** Los cambios de cada persona se combinan solos; Cauce solo pregunta cuando los dos cambiaron exactamente lo mismo.
 - **Cuentas, billeteras y dólares**, con valuación al dólar MEP.
@@ -75,7 +88,9 @@ Cauce convierte tus ingresos, gastos, deudas e inversiones en un presupuesto y u
 - **Reportes** con el historial de lo que realmente registraste.
 - **Anotar rápido** y **recordatorios** de vencimientos.
 - **Guía inicial** de cinco pasos para empezar sin recorrer todas las secciones.
-- **Menú más simple:** lo diario adelante y las opciones avanzadas guardadas en «Más opciones».
+- **Eliminar espacios** y una ventana con las novedades después de cada actualización.
+
+</details>
 
 El detalle de cada versión está en [Releases](https://github.com/th-arroyo/cauce-releases/releases).
 
