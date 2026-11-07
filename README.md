@@ -54,8 +54,8 @@ Cauce convierte tus ingresos, gastos, deudas e inversiones en un presupuesto y u
 |---|---|
 | **Ingresos y servicios** | Lo previsto y lo pagado en una sola obligación, con aumentos automáticos por inflación o paritarias. |
 | **Vivienda y mudanza** | Vivir con familiares, alquilar solo o en pareja, ajustes de alquiler por índice y escenarios de mudanza sin tocar tus datos reales. |
-| **Créditos y deudas** | Calendario real de cada préstamo y compra en cuotas, capacidad para nuevas cuotas y un plan mes a mes para cancelar antes. |
-| **Ahorro y objetivos** | Fondo de emergencia y metas, con recomendaciones que respetan tu presupuesto. |
+| **Créditos y deudas** | Calendario real de cada préstamo y compra en cuotas, capacidad conservadora para nuevas cuotas y un plan mes a mes para cancelar antes. |
+| **Ahorro y objetivos** | Fondo de emergencia con meta automática según tus gastos esenciales, y metas propias con recomendaciones que respetan tu presupuesto. |
 
 **Analizar**
 
