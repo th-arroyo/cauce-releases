@@ -35,7 +35,7 @@
 
 Cauce convierte tus ingresos, gastos, deudas e inversiones en un presupuesto y un plan de acción concretos. Sirve para una persona, una pareja o una familia.
 
-| | |
+| Función | Qué te permite |
 |---|---|
 | **Presupuesto 50/30/20** | Porcentajes configurables y dos modos de cálculo. Cada total se puede abrir para ver de dónde sale. |
 | **Ingresos y gastos** | Lo previsto y lo realizado en una sola obligación: pagar un servicio o cobrar un sueldo nunca cuenta dos veces. |
