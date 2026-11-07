@@ -161,7 +161,7 @@ El detalle de cada versión está en [Releases](https://github.com/th-arroyo/cau
 
 ## Actualizaciones
 
-Cada vez que abrís Cauce, la app busca una versión nueva. Si la hay, te muestra las novedades y **te pregunta antes de descargar e instalar**. Si elegís «Más tarde», seguís usando tu versión y vuelve a preguntar la próxima vez. Tus datos no se modifican al actualizar.
+Cada vez que abrís Cauce, la app busca una versión nueva. Si la hay, te muestra las novedades y **te pregunta antes de descargar e instalar**. Si elegís «Más tarde», seguís usando tu versión y vuelve a preguntar la próxima vez. Tus datos no se modifican al actualizar. La primera vez que abrís la versión nueva, Cauce te muestra sus novedades en una ventana.
 
 ## Tus datos
 
