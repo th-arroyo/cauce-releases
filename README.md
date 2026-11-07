@@ -6,12 +6,13 @@
 
 <p align="center">
   <strong>Tu dinero, con un rumbo claro.</strong><br>
-  Finanzas personales y del hogar para Windows: presupuesto, cuentas, deudas, inversiones y objetivos, en pesos argentinos.
+  Finanzas personales y del hogar para Windows y Android: presupuesto, cuentas, deudas, inversiones y objetivos, en pesos argentinos.
 </p>
 
 <p align="center">
   <a href="https://github.com/th-arroyo/cauce-releases/releases/latest"><img src="https://img.shields.io/github/v/release/th-arroyo/cauce-releases?label=versi%C3%B3n&color=0d6b5f" alt="Última versión"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0d6b5f" alt="Windows 10 y 11">
+  <img src="https://img.shields.io/badge/Android-7%2B-0d6b5f" alt="Android 7 o posterior">
   <img src="https://img.shields.io/badge/idioma-espa%C3%B1ol-0d6b5f" alt="En español">
   <img src="https://img.shields.io/badge/datos-en%20tu%20Google%20Drive-0d6b5f" alt="Datos en tu Google Drive">
   <img src="https://img.shields.io/badge/funciona-sin%20internet-0d6b5f" alt="Funciona sin internet">
@@ -20,7 +21,9 @@
 <p align="center">
   <a href="https://github.com/th-arroyo/cauce-releases/releases/latest"><strong>Descargar para Windows</strong></a>
   ·
-  <a href="#novedades-de-la-versión-13">Novedades</a>
+  <a href="https://github.com/th-arroyo/cauce-releases/releases/latest"><strong>Descargar para Android</strong></a>
+  ·
+  <a href="#novedades-de-la-versión-14">Novedades</a>
   ·
   <a href="#instalación">Cómo instalar</a>
   ·
@@ -68,14 +71,22 @@ Cauce convierte tus ingresos, gastos, deudas e inversiones en un presupuesto y u
 
 **En pareja o en familia:** compartí un espacio con permiso de lectura o de edición. Si los dos cargan cosas al mismo tiempo, Cauce las combina solo.
 
-## Novedades de la versión 1.3
+## Novedades de la versión 1.4
 
-**Cauce, renovado.** Un diseño nuevo, más limpio y más claro. Tus datos y tus cálculos siguen exactamente igual.
+**Cauce, también en el celular.** Llega la app para Android, con los mismos datos que en la PC y sincronizada con tu Drive.
 
-- **Un Inicio que se entiende de un vistazo.** Arriba, cuánto te quedaría al cerrar el mes y la cuenta que lleva a ese número. Abajo, lo que necesita tu atención, los próximos pagos y tu presupuesto.
-- **Menú más simple.** Lo de todos los días a mano; Ingresos, Servicios, Vivienda y Reportes están en «Más».
-- **Claro u oscuro, a tu gusto.** En **Ajustes › Cuenta y apariencia** elegís el tema, o dejás que siga a Windows.
-- **Todo más prolijo.** Números más grandes, tarjetas más limpias, pestañas y ventanas nuevas en todas las pantallas.
+- **App para Android.** Todo Cauce en el celular: Inicio, movimientos, presupuesto, deudas, ahorro e inversiones, con una pantalla pensada para usar con el pulgar.
+- **Anotar al momento.** El botón **+** queda siempre a mano para cargar un gasto apenas lo hacés.
+- **Los mismos datos en todos lados.** Lo que anotás en el celular aparece en la PC a los pocos segundos, y al revés. Sin internet también funciona.
+- **Se actualiza sola.** Como en Windows, la app avisa cuando hay una versión nueva y pregunta antes de instalarla.
+
+<details>
+<summary><b>Lo que llegó en la versión 1.3</b></summary>
+<br>
+
+**Cauce, renovado.** Un diseño nuevo, más limpio y más claro: un Inicio que se entiende de un vistazo, un menú más simple y tema claro u oscuro a elección.
+
+</details>
 
 <details>
 <summary><b>Lo que llegó en la versión 1.2</b></summary>
@@ -163,9 +174,23 @@ El detalle de cada versión está en [Releases](https://github.com/th-arroyo/cau
   </tr>
 </table>
 
+**En el celular**
+
+<p align="center">
+  <img src="assets/celular-inicio.jpg" alt="Inicio de Cauce en un celular Android" width="200">
+  &nbsp;
+  <img src="assets/celular-movimientos.jpg" alt="Movimientos del mes como tarjetas en el celular" width="200">
+  &nbsp;
+  <img src="assets/celular-mas.jpg" alt="Panel Más con el resto de las secciones en el celular" width="200">
+  &nbsp;
+  <img src="assets/celular-oscuro.jpg" alt="Inicio en el celular con tema oscuro" width="200">
+</p>
+
 <sub>Las capturas usan datos de ejemplo.</sub>
 
 ## Instalación
+
+### Windows
 
 1. Descargá **`Cauce-Setup-<versión>.exe`** desde la [última versión](https://github.com/th-arroyo/cauce-releases/releases/latest).
 2. Abrilo. Si Windows muestra **«Windows protegió tu PC»**, tocá **Más información** y después **Ejecutar de todos modos**. Aparece porque el instalador no tiene una firma comercial.
@@ -174,13 +199,26 @@ El detalle de cada versión está en [Releases](https://github.com/th-arroyo/cau
 
 **Requisitos:** Windows 10 u 11 de 64 bits y una cuenta de Google. Hace falta internet para el primer ingreso; después la app funciona también sin conexión.
 
+### Android
+
+1. Desde el celular, abrí la [última versión](https://github.com/th-arroyo/cauce-releases/releases/latest) y descargá **`Cauce-<versión>.apk`**.
+2. Abrí el archivo. Android te pide permitir instalar apps desde esa fuente (el navegador o la app de archivos): activalo y volvé.
+3. Tocá **Instalar**. Si Google Play Protect avisa que no conoce la app, elegí **Instalar de todas formas**: pasa con las apps que no vienen de la Play Store.
+4. Abrí Cauce y tocá **Ingresar con Google**. Se usa la cuenta de Google del teléfono, sin contraseñas nuevas.
+
+**Requisitos:** Android 7 o posterior con los servicios de Google, y una cuenta de Google.
+
+Un espacio que te compartieron se abre una vez desde Cauce en la PC (**Ajustes › Acceso › Elegir en Google Drive**); después aparece solo en el celular.
+
 ## Actualizaciones
 
 Cada vez que abrís Cauce, la app busca una versión nueva. Si la hay, te muestra las novedades y **te pregunta antes de descargar e instalar**. Si elegís «Más tarde», seguís usando tu versión y vuelve a preguntar la próxima vez. Tus datos no se modifican al actualizar. La primera vez que abrís la versión nueva, Cauce te muestra sus novedades en una ventana.
 
+En Android, la app descarga la versión nueva desde esta página, comprueba que el archivo sea el publicado y abre el instalador del teléfono: un toque en **Actualizar** y listo. La primera vez, Android pide permitir que Cauce instale actualizaciones. Las versiones de Android anteriores a la 1.4 no se actualizan solas: instalá la 1.4 una vez a mano, encima de la que tenés, sin perder nada.
+
 ## Tus datos
 
-- **En tu Google Drive.** Cada espacio es un archivo dentro de la carpeta «Cauce» de tu Drive, con una copia en tu computadora para usar la app sin internet.
+- **En tu Google Drive.** Cada espacio es un archivo dentro de la carpeta «Cauce» de tu Drive, con una copia en tu computadora o tu celular para usar la app sin internet. En el celular esa copia vive en la carpeta privada de la app, que otras apps no pueden leer.
 - **Acceso mínimo.** Cauce solo puede abrir los archivos que crea o que elegís; no ve el resto de tu Drive.
 - **Sin servidores propios.** No hay una base de datos de Cauce: nadie más recibe tu información.
 - **Sin publicidad ni seguimiento.** La app no tiene publicidad ni herramientas de análisis, y no vende datos.
@@ -229,7 +267,7 @@ En <b>Ajustes › Datos y respaldo › Eliminar este espacio</b>. Para confirmar
 <details>
 <summary><b>¿Cómo desinstalo Cauce?</b></summary>
 <br>
-Desde <b>Configuración de Windows › Aplicaciones</b>. Tus datos quedan en Drive y en <code>%APPDATA%\Cauce</code> hasta que decidas borrarlos.
+En Windows, desde <b>Configuración › Aplicaciones</b>: tus datos quedan en Drive y en <code>%APPDATA%\Cauce</code> hasta que decidas borrarlos. En Android, mantené apretado el ícono y elegí <b>Desinstalar</b>: se borra la copia del celular y tus datos siguen en Drive.
 </details>
 
 ---
