@@ -206,6 +206,12 @@ Mientras la app esté en etapa de prueba en Google, la sesión dura 7 días. Vol
 </details>
 
 <details>
+<summary><b>¿Cómo elimino un espacio o empiezo de cero?</b></summary>
+<br>
+En <b>Ajustes › Datos y respaldo › Eliminar este espacio</b>. Para confirmar hay que escribir su nombre. El archivo va a la papelera de tu Google Drive, desde donde lo podés recuperar por un tiempo. Si era tu único espacio, se crea uno nuevo vacío con la guía «Empecemos».
+</details>
+
+<details>
 <summary><b>¿Cómo desinstalo Cauce?</b></summary>
 <br>
 Desde <b>Configuración de Windows › Aplicaciones</b>. Tus datos quedan en Drive y en <code>%APPDATA%\Cauce</code> hasta que decidas borrarlos.
