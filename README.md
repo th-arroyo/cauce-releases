@@ -23,7 +23,7 @@
   ·
   <a href="https://github.com/th-arroyo/cauce-releases/releases/latest"><strong>Descargar para Android</strong></a>
   ·
-  <a href="#novedades-de-la-versión-14">Novedades</a>
+  <a href="#cauce-10">Novedades</a>
   ·
   <a href="#instalación">Cómo instalar</a>
   ·
@@ -71,37 +71,15 @@ Cauce convierte tus ingresos, gastos, deudas e inversiones en un presupuesto y u
 
 **En pareja o en familia:** compartí un espacio con permiso de lectura o de edición. Si los dos cargan cosas al mismo tiempo, Cauce las combina solo.
 
-## Novedades de la versión 1.4
+## Cauce 1.0
 
-**Cauce, también en el celular.** Llega la app para Android, con los mismos datos que en la PC y sincronizada con tu Drive.
+**La primera versión pública.** Todo lo que Cauce hace, en Windows y en Android, con tus datos en tu propio Google Drive.
 
-- **App para Android.** Todo Cauce en el celular: Inicio, movimientos, presupuesto, deudas, ahorro e inversiones, con una pantalla pensada para usar con el pulgar.
-- **Anotar al momento.** El botón **+** queda siempre a mano para cargar un gasto apenas lo hacés.
-- **Los mismos datos en todos lados.** Lo que anotás en el celular aparece en la PC a los pocos segundos, y al revés. Sin internet también funciona.
-- **Se actualiza sola.** Como en Windows, la app avisa cuando hay una versión nueva y pregunta antes de instalarla.
-
-<details>
-<summary><b>Lo que llegó en la versión 1.3</b></summary>
-<br>
-
-**Cauce, renovado.** Un diseño nuevo, más limpio y más claro: un Inicio que se entiende de un vistazo, un menú más simple y tema claro u oscuro a elección.
-
-</details>
-
-<details>
-<summary><b>Lo que llegó en la versión 1.2</b></summary>
-<br>
-
-- **Edición en pareja sin conflictos.** Los cambios de cada persona se combinan solos; Cauce solo pregunta cuando los dos cambiaron exactamente lo mismo.
-- **Cuentas, billeteras y dólares**, con valuación al dólar MEP.
-- **Tarjetas en un pago** y botón **Pagar resumen**.
-- **Aumentos automáticos** por inflación en sueldos, servicios y alquiler.
-- **Reportes** con el historial de lo que realmente registraste.
-- **Anotar rápido** y **recordatorios** de vencimientos.
-- **Guía inicial** de cinco pasos para empezar sin recorrer todas las secciones.
-- **Eliminar espacios** y una ventana con las novedades después de cada actualización.
-
-</details>
+- **Bienvenida y recorrido guiado.** La primera vez que abrís Cauce te explica los conceptos básicos y te muestra cada sección, señalando dónde está en el menú. Lo podés volver a ver cuando quieras desde **Ajustes › Cuenta y apariencia**.
+- **Deudas y cuotas al día.** Cada compra en cuotas aparece en su mes y desaparece sola cuando terminás de pagarla. El saldo incluye la cuota del mes hasta que la registrás, y lo que pagás de más no adelanta cuotas sin que lo elijas.
+- **Compras en cuotas desde «Anotar».** Tarjeta, préstamo o compra en cuotas, cuántas cuotas y desde qué mes.
+- **Avisos por servicio**, pagos con monto final y metas de ahorro sin un número fijo.
+- **Recomendar Cauce y Sugerencias y errores**, desde el menú, para compartir la app o proponer mejoras.
 
 El detalle de cada versión está en [Releases](https://github.com/th-arroyo/cauce-releases/releases).
 
@@ -195,7 +173,7 @@ El detalle de cada versión está en [Releases](https://github.com/th-arroyo/cau
 1. Descargá **`Cauce-Setup-<versión>.exe`** desde la [última versión](https://github.com/th-arroyo/cauce-releases/releases/latest).
 2. Abrilo. Si Windows muestra **«Windows protegió tu PC»**, tocá **Más información** y después **Ejecutar de todos modos**. Aparece porque el instalador no tiene una firma comercial.
 3. Cauce se instala solo para tu usuario, sin pedir permisos de administrador, y crea accesos directos en el escritorio y en el menú Inicio.
-4. Tocá **Ingresar con Google** y respondé las cinco preguntas de la guía inicial.
+4. Tocá **Ingresar con Google**. La primera vez, Cauce te da la bienvenida con un recorrido por cada sección y una guía de cinco preguntas para armar tu presupuesto.
 
 **Requisitos:** Windows 10 u 11 de 64 bits y una cuenta de Google. Hace falta internet para el primer ingreso; después la app funciona también sin conexión.
 
@@ -204,7 +182,7 @@ El detalle de cada versión está en [Releases](https://github.com/th-arroyo/cau
 1. Desde el celular, abrí la [última versión](https://github.com/th-arroyo/cauce-releases/releases/latest) y descargá **`Cauce-<versión>.apk`**.
 2. Abrí el archivo. Android te pide permitir instalar apps desde esa fuente (el navegador o la app de archivos): activalo y volvé.
 3. Tocá **Instalar**. Si Google Play Protect avisa que no conoce la app, elegí **Instalar de todas formas**: pasa con las apps que no vienen de la Play Store.
-4. Abrí Cauce y tocá **Ingresar con Google**. Se usa la cuenta de Google del teléfono, sin contraseñas nuevas.
+4. Abrí Cauce y tocá **Ingresar con Google**. Se usa la cuenta de Google del teléfono, sin contraseñas nuevas. La primera vez te muestra un recorrido por cada sección.
 
 **Requisitos:** Android 7 o posterior con los servicios de Google, y una cuenta de Google.
 
@@ -214,7 +192,11 @@ Un espacio que te compartieron se abre una vez desde Cauce en la PC (**Ajustes �
 
 Cada vez que abrís Cauce, la app busca una versión nueva. Si la hay, te muestra las novedades y **te pregunta antes de descargar e instalar**. Si elegís «Más tarde», seguís usando tu versión y vuelve a preguntar la próxima vez. Tus datos no se modifican al actualizar. La primera vez que abrís la versión nueva, Cauce te muestra sus novedades en una ventana.
 
-En Android, la app descarga la versión nueva desde esta página, comprueba que el archivo sea el publicado y abre el instalador del teléfono: un toque en **Actualizar** y listo. La primera vez, Android pide permitir que Cauce instale actualizaciones. Las versiones de Android anteriores a la 1.4 no se actualizan solas: instalá la 1.4 una vez a mano, encima de la que tenés, sin perder nada.
+En Android, la app descarga la versión nueva desde esta página, comprueba que el archivo sea el publicado y abre el instalador del teléfono: un toque en **Actualizar** y listo. La primera vez, Android pide permitir que Cauce instale actualizaciones. **Si usabas una versión de prueba (1.1 a 1.5):** Cauce empezó a numerar de nuevo desde la 1.0, así que esa versión no te va a ofrecer la 1.0 sola. Instalala una vez a mano, encima de la que tenés, en Windows y en Android: no se pierde nada y desde ahí las actualizaciones vuelven a llegar solas.
+
+## Ideas y errores
+
+¿Se te ocurre algo que le falta a Cauce o encontraste un error? Desde la app, en **Sugerencias y errores**, se abre un formulario ya armado. También podés escribir directamente en [Issues](https://github.com/th-arroyo/cauce-releases/issues). Necesitás una cuenta gratuita de GitHub y lo que escribas es público: no pongas datos personales ni importes.
 
 ## Tus datos
 
@@ -255,7 +237,7 @@ Si es en un pago, anotala eligiendo la tarjeta en «Pagado con»: cuenta como ga
 <details>
 <summary><b>¿Por qué Google me pide volver a ingresar cada tanto?</b></summary>
 <br>
-Mientras la app esté en etapa de prueba en Google, la sesión dura 7 días. Volvés a tocar «Ingresar con Google» y seguís donde estabas; no se pierde nada.
+Pasa si cambiaste la contraseña de Google, si quitaste el permiso de Cauce o si pasó mucho tiempo sin usar la app. Volvés a tocar «Ingresar con Google» y seguís donde estabas; no se pierde nada.
 </details>
 
 <details>
